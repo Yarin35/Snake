@@ -1,0 +1,3 @@
+pour faire avancer le serpent go faire une grosse clock qui fera avancer le serpent d'une case a chaque demi seconde x + 1 si tête == tete_droite, y + 1 si tête == tete_basse ...
+le corps sera body * len
+la queue sera len
